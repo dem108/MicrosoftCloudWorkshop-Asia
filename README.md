@@ -163,7 +163,7 @@ guide and add the link you want to contribute in a structured way.
 
 * Azure Container Registry
   > *Allows you to store and manage images for all types of container deployments*
-  * [Documentation]https://docs.microsoft.com/en-us/azure/container-registry/
+  * [Documentation](https://docs.microsoft.com/en-us/azure/container-registry/)
 
 * Azure SQL Data Warehouse
   > *An elastic data warehouse as a service with enterprise-class features*
