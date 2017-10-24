@@ -105,9 +105,15 @@ guide and add the link you want to contribute in a structured way.
   * [Azure Code Samples](https://azure.microsoft.com/en-us/documentation/samples/)
   * [Azure Documentation](https://docs.microsoft.com/en-us/azure/)
 
+* Special Recommendations
+  * [Microsoft AI Platform](https://www.microsoft.com/en-us/AI/ai-platform)
+  * [Awesome-Azure-Advanced-Analytics](https://github.com/bensadeghi/Awesome-Azure-Advanced-Analytics)
+
 * Hackathon Specific Guidances
   * Download from [here](https://1drv.ms/f/s!AqxpfqzT7_QjpdF66l0cS-L6D_ZpAQ)
 
+* Others
+  * [CNTK Hands-on video(3 hours) on Resnet](https://resnet.microsoft.com/video/38353)
 
  ---
 
