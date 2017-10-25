@@ -4,3 +4,5 @@
 * "SEA" : InitAirport()
 * "api.wunderground.com"
 
+* "zmw:98158.5.99999"
+
