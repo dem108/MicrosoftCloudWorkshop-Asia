@@ -156,6 +156,11 @@ guide and add the link you want to contribute in a structured way.
   * [BigDL on Azure HDInsight](https://azure.microsoft.com/en-us/blog/use-bigdl-on-hdinsight-spark-for-distributed-deep-learning/)
   * [H2O.ai on Azure HDInsight](https://azure.microsoft.com/en-us/blog/introducing-h2o-ai-with-on-azure-hdinsight-to-bring-the-most-robust-ai-platform-for-enterprises/)
   * [Distributed Machine Learning Toolkit](http://www.dmtk.io/)
+  * [IDG Report(Korean) on Comparing Deep Learning Frameworks](../master/resources/(IDG-%EB%94%A5%EB%9F%AC%EB%8B%9D%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%EB%B9%84%EA%B5%90201710)TechReview_MLFramework_1703.pdf)
+  
+* Azure Notebooks *Preview*
+  > Interactive coding in your browser: Free, in the cloud, powered by [Jupyter](https://jupyter.org/)
+  * [Azure Notebooks](https://notebooks.azure.com/)
 
 * Azure Container Service
   > *Allows you to quickly deploy a production ready Kubernetes, DC/OS, or Docker Swarm cluster*
@@ -177,6 +182,11 @@ guide and add the link you want to contribute in a structured way.
 * Microsoft Bot Framework
   > *A framework to build and deploy high-quality bots for conversation experiences*
   * [Bot Framework Documentation](https://docs.microsoft.com/en-us/bot-framework/)
+
+* Azure Search
+  > Managed cloud search service, with ability to add scalable full-text search over multiple languages, geo-spatial search, filtering and faceted navigation, type-ahead queries, hit highlighting, and custom analyzers
+  * [Documentation](https://docs.microsoft.com/en-us/azure/search/)
+  * [Using Azure Search for implementing QnA Bot](https://www.microsoft.com/developerblog/2016/12/10/leveraging-azure-search-for-implementing-a-qna-bot-in-unsupported-languages/)
 
 * Microsoft Machine Learning Server
   > *A scalable and deployable enterprise-grade R and Python analytics platform*
