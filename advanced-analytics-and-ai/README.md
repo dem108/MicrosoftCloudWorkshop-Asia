@@ -199,4 +199,4 @@ guide and add the link you want to contribute in a structured way.
 
  ---
 
-<img width='250' src='../master/advanced-analytis-and-ai/images/keep-calm-and-hands-on.jpg'/>
+<img width='250' src='../advanced-analytics-and-ai/images/keep-calm-and-hands-on.jpg'/>
