@@ -8,10 +8,17 @@ guide and add the link you want to contribute in a structured way.
 ## Table of Contents
 
 - [Common Requirements](#common-requirements)
-- [Day 1 - Machine Learning and BI](#day-1---machine-learning-and-bi)
-- [Day 2 - Bot and Cognitive Services](#day-2---bot-and-cognitive-services)
-- [Day 3 - Deep Learning with DSVM and Containers](#day-3---deep-learning-with-dsvm-and-containers)
-- [Resources](#resources)
+- [Data and AI](#data-and-ai)
+  - [Advanced Analytics and AI](#advanced-analytics-and-ai)
+  - [Internet Of Things](#internet-of-things)
+  - [Tier 1 Data Platform Compete](#tier-1-data-platform-compete)
+- [Apps and Infra](#apps-and-infra)
+  - [Infrastructure](#infrastructure)
+  - [Apps](#apps)
+- [Strategic Area](#strategic-area)
+  - [Gaming](#gaming)
+  - [Blockchain](#blockchain)
+- [Notes](#notes)
 
 
 - - -
