@@ -97,7 +97,7 @@ guide and add the link you want to contribute in a structured way.
 
 ## Resources
 ### Hackathon Specific Guidances
-  * Download from [here](https://1drv.ms/f/s!AqxpfqzT7_QjpdF66l0cS-L6D_ZpAQ)
+  * Download from [here](https://1drv.ms/f/s!AqxpfqzT7_QjpdF6SngoZ-apeytv4w)
 
 ### Special Recommendations
   * [Microsoft AI Platform](https://www.microsoft.com/en-us/AI/ai-platform)
