@@ -1,8 +1,8 @@
-# Microsoft Cloud Workshop Asia
+(# Microsoft Cloud Workshop Asia
 
 ## Contributing
 
-Your contributions are welcomed! Please send a pull request to contribute. Make sure you check out the the [Markdown Syntax](https://guides.github.com/features/mastering-markdown/)
+Your contributions are welcomed! Please send a pull request to contribute. Make sure you check out the the [Markdown Syntax](https://guides.github.com/features/mastering-markdown/) (or in [Korean](https://mrchypark.github.io/data_camp_dabrp/knitr.html))
 guide and add the link you want to contribute in a structured way.
 
 ## Table of Contents
