@@ -1,4 +1,4 @@
-(# Microsoft Cloud Workshop Asia
+# Microsoft Cloud Workshop Asia
 
 ## Contributing
 
