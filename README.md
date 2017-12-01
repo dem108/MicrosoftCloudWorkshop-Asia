@@ -34,13 +34,13 @@ guide and add the link you want to contribute in a structured way.
 # Data and AI
  
 ## Advanced Analytics and AI
-* Machine Learning and BI
-  >*Use Azure Machine Learnig Studio to develop and deploy ML models, then analyze batch scored data with Azure SQL Datawarehouse and Power BI all integrated within Web page with Azure Active Directory* 
+* Machine Learning Studio and BI
+  >*Use Azure Machine Learning Studio to develop and deploy ML models, then analyze batch scored data with Azure SQL Datawarehouse and Power BI all integrated within Web page with Azure Active Directory* 
  
-* Bot and Cognitive Services
+* Scalable Bot and Cognitive Services
   > *Develop a Hotel Concierge Bot: Configure for scalability, add intelligence including Natural Language Understanding, connect with Search and BI capability*
  
-* Bot and Cognitive Services (*WIP*)
+* Bot Framework and Cognitive Services (*WIP*)
   > *Use Bot Framework to build, test, deploy, connect to channels. Start with FormFlow bot, continue with Language Understanding and Q&A Maker. Explore different aspects from Official Sample libraries.*
 
 * Deep Learning with GPU DSVM, Spark and Containers

@@ -2,15 +2,16 @@
 
 ## Contributing
 
-Your contributions are welcomed! Please send a pull request to contribute. Make sure you check out the the [Markdown Syntax](https://guides.github.com/features/mastering-markdown/)
+Your contributions are welcomed! Please send a pull request to contribute. Make sure you check out the the [Markdown Syntax](https://guides.github.com/features/mastering-markdown/) (or in [Korean](https://mrchypark.github.io/data_camp_dabrp/knitr.html))
 guide and add the link you want to contribute in a structured way.
 
 ## Table of Contents
 
 - [Common Requirements](#common-requirements)
-- [Day 1 - Machine Learning and BI](#day-1---machine-learning-and-bi)
-- [Day 2 - Bot and Cognitive Services](#day-2---bot-and-cognitive-services)
-- [Day 3 - Deep Learning with DSVM and Containers](#day-3---deep-learning-with-dsvm-and-containers)
+- [Machine Learning and BI](#machine-learning-studio-and-bi)
+- [Scalable Bot and Cognitive Services](#scalable-bot-and-cognitive-services)
+- [Bot Framework and Cognitive Services](#bot-framework-and-cognitive-services)
+- [Deep Learning with DSVM and Containers](#deep-learning-with-dsvm-and-containers)
 - [Resources](#resources)
 
 
@@ -24,7 +25,10 @@ guide and add the link you want to contribute in a structured way.
 * Other pre-workshop activities are provided per agenda
 
  
-## Day 1 - Machine Learning and BI
+## Machine Learning Studio and BI
+
+  >*Use Azure Machine Learning Studio to develop and deploy ML models, then analyze batch scored data with Azure SQL Datawarehouse and Power BI all integrated within Web page with Azure Active Directory* 
+ 
 ### Block Schedule
   * 09:00-09:30 Registration
   * 09:30-10:00 Workshop Purpose/Value + Structure + Team Building, Ice Breaking(Self-intro: name, company, role, expectation)
@@ -47,7 +51,10 @@ guide and add the link you want to contribute in a structured way.
   * Visual Studio
  
  
-## Day 2 - Bot and Cognitive Services
+## Scalable Bot and Cognitive Services
+
+  > *Develop a Hotel Concierge Bot: Configure for scalability, add intelligence including Natural Language Understanding, connect with Search and BI capability* 
+
 ### Block Schedule
   * 09:00-09:30 Registration
   * 09:30-11:00 Azure AI Stack Briefing + Overview for related solutions
@@ -73,7 +80,43 @@ guide and add the link you want to contribute in a structured way.
   * Azure Search
  
  
-## Day 3 - Deep Learning with DSVM and Containers
+
+## Bot Framework and Cognitive Services
+
+  > *Use Bot Framework to build, test, deploy, connect to channels. Start with FormFlow bot, continue with Language Understanding and Q&A Maker. Explore different aspects from Official Sample libraries.*
+
+*```Work In Progess...```*
+
+### Block Schedule
+  * 09:00-09:30 Registration
+  * 09:30-11:00 Azure AI Stack Briefing + Overview for related solutions
+  * 11:10-11:50 Requirements and Architecture briefing for the workshop
+  * Lunch
+  * 13:00-13:50 Hackathon – Ex1: Prep Environment
+  * 14:00-14:50 Hackathon – Ex2: Implement Message Forwarding
+  * 15:00-15:50 Hackathon – Ex3: Configure Chat Web App, Ex4: Deploy Apps + Some time for code analysis, breaks
+  * 16:00-16:50 Hackathon – Ex5: Add Intelligence (Sentiment, LUIS, STT)
+  * 17:00-17:50 Hackathon – Ex6: Power BI,  Ex7: Enable Search Indexing
+  * 17:50-18:00 Wrap Up
+ 
+### Included Product/Services:
+  * Service Bus (Topic)
+  * Event Hub
+  * Stream Analytics
+  * Storage Account
+  * Cosmos DB
+  * Azure App Service
+  * Visual Studio
+  * Cognitive Services
+  * Power BI
+  * Azure Search
+ 
+
+
+## Deep Learning with DSVM and Containers
+
+  > *Data pipelining, wrangling, ML/DL model training on Docker with GPU VM/cluster or Spark cluster, deploying with Container services (Kubernetes)*
+
 ### Block Schedule
   * 09:00-09:30 Registration
   * 09:30-11:00 Azure AI Stack Briefing + Overview for related solutions
