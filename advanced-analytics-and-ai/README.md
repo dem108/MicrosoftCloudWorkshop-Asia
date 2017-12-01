@@ -41,7 +41,7 @@ guide and add the link you want to contribute in a structured way.
 - 17:00-17:50 Hackathon – Ex5: Power BI
 - 17:50-18:00 Wrap Up
 
-### Included Product/Services:
+### Included Product/Services
 
 - Power BI
 - SQL Data Warehouse
@@ -68,7 +68,7 @@ guide and add the link you want to contribute in a structured way.
 - 17:00-17:50 Hackathon – Ex6: Power BI,  Ex7: Enable Search Indexing
 - 17:50-18:00 Wrap Up
 
-### Included Product/Services:
+### Included Product/Services
 
 - Service Bus (Topic)
 - Event Hub
@@ -85,35 +85,24 @@ guide and add the link you want to contribute in a structured way.
 
   > *Use Bot Framework to build, test, deploy, connect to channels. Start with FormFlow bot, continue with Language Understanding and Q&A Maker. Explore different aspects from Official Sample libraries.*
 
-*```Work In Progess...```*
-
 ### Block Schedule
 
 - 09:00-09:30 Registration
 - 09:30-11:00 Azure AI Stack Briefing + Overview for related solutions
 - 11:10-11:50 Requirements and Architecture briefing for the workshop
 - Lunch
-- 13:00-13:50 Hackathon – Ex1: Prep Environment
-- 14:00-14:50 Hackathon – Ex2: Implement Message Forwarding
-- 15:00-15:50 Hackathon – Ex3: Configure Chat Web App, Ex4: Deploy Apps + Some time for code analysis, breaks
-- 16:00-16:50 Hackathon – Ex5: Add Intelligence (Sentiment, LUIS, STT)
-- 17:00-17:50 Hackathon – Ex6: Power BI,  Ex7: Enable Search Indexing
+- 13:00-13:50 Hackathon – Ex1: Prep Environment, Bot Demo - Litware Insurance
+- 14:00-14:50 Hackathon – Ex2: Build and Deploy a Bot
+- 15:00-15:50 Hackathon – Ex3: Add Intelligence (LUIS)
+- 16:00-16:50 Hackathon – Ex4: Develop LUIS for Korean
+- 17:00-17:50 Hackathon – Ex5: Explore other SDKs
 - 17:50-18:00 Wrap Up
- 
-### Included Product/Services:
 
-- Service Bus (Topic)
-- Event Hub
-- Stream Analytics
-- Storage Account
-- Cosmos DB
+### Included Product/Services
+
 - Azure App Service
-- Visual Studio
 - Cognitive Services
-- Power BI
-- Azure Search
- 
-
+- Visual Studio
 
 ## Deep Learning with DSVM and Containers
 
@@ -133,14 +122,12 @@ guide and add the link you want to contribute in a structured way.
 - 17:00-17:50 Hackathon – Ex5: Advanced Data Preparation
 - 17:50-18:00 Wrap Up
  
-### Included Product/Services:
+### Included Product/Services
 
 - Data Science VM, Deep Learning VM
 - Azure Machine Learning *Workbench*
 - HDInsight
 - Azure Container Service, Azure Container Registry
- 
-
 
 ## Resources
 
