@@ -147,6 +147,14 @@ guide and add the link you want to contribute in a structured way.
 - [Azure Interactives: Products, Design Patterns, Security](http://azureinteractives.azurewebsites.net/)
 - [Azure Documentation](https://docs.microsoft.com/en-us/azure/)
 
+### Azure Architecture Guide
+
+- [Architecture Styles - Event Driven](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/event-driven)
+- [Architecture Styles - Big Data](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/big-data)
+- [Architecture Styles - Big Compute](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/big-compute)
+- [Tech Choices - Compute](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-overview)
+- [Tech Choices - Data Store](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/data-store-overview)
+
 ### Products and Services
 
 - Azure Cognitive Services
