@@ -1,0 +1,498 @@
+{
+  "luis_schema_version": "2.1.0",
+  "versionId": "0.1",
+  "name": "LuisBot-HotelFinder-Korean",
+  "desc": "",
+  "culture": "ko-kr",
+  "intents": [
+    {
+      "name": "Help"
+    },
+    {
+      "name": "None"
+    },
+    {
+      "name": "SearchHotels"
+    },
+    {
+      "name": "ShowHotelsReviews"
+    }
+  ],
+  "entities": [
+    {
+      "name": "AirportCode"
+    },
+    {
+      "name": "Hotel"
+    },
+    {
+      "name": "Location",
+      "children": [
+        "City",
+        "Area"
+      ]
+    },
+    {
+      "name": "Star"
+    }
+  ],
+  "composites": [],
+  "closedLists": [],
+  "bing_entities": [],
+  "model_features": [
+    {
+      "name": "Cities",
+      "mode": true,
+      "words": "수 원 시,창 원 시,고 양 시,용 인 시,성 남 시,부 천 시,청 주 시,안 산 시,전 주 시,천 안 시,남 양 주 시,화 성 시,안 양 시,김 해 시,포 항 시,평 택 시,제 주 시,시 흥 시,의 정 부 시,구 미 시,파 주 시,김 포 시,진 주 시,광 명 시,원 주 시,아 산 시,광 주 시,익 산 시,양 산 시,군 포 시,춘 천 시,경 산 시,군 산 시,여 수 시,순 천 시,경 주 시,거 제 시,목 포 시,강 릉 시,오 산 시,충 주 시,이 천 시,양 주 시,안 성 시,구 리 시,서 산 시,안 동 시,당 진 시,포 천 시,의 왕 시,하 남 시,서 귀 포 시,광 양 시,김 천 시,통 영 시,제 천 시,논 산 시,공 주 시,사 천 시,정 읍 시,여 주 시,영 주 시,밀 양 시,보 령 시,상 주 시,영 천 시,동 두 천 시,나 주 시,동 해 시,김 제 시,남 원 시,속 초 시,문 경 시,삼 척 시,과 천 시,태 백 시,계 룡 시",
+      "activated": true
+    },
+    {
+      "name": "SubwayStations",
+      "mode": true,
+      "words": "삼 성,선 릉,역 삼,강 남,압 구 정,신 사,매 봉,도 곡,대 치,학 여 울,대 청,일 원,수 서,청 담,강 남 구 청,학 동,논 현,신 논 현,압 구 정 로 데 오,선 정 릉,한 티,구 룡,개 포 동,대 모 산 입 구,천 호,강 동,길 동,굽 은 다 리,명 일,고 덕,상 일 동,둔 촌 동,암 사,강 동 구 청,수 유,미 아,미 아 삼 거 리,까 치 산,방 화,개 화 산,김 포 공 항,송 정,마 곡,발 산,우 장 산,화 곡,개 화,공 항 시 장,신 방 화,양 천 향 교,가 양,증 미,등 촌,염 창,낙 성 대,서 울 대 입 구,봉 천,신 림,건 대 입 구,구 의,강 변,군 자,아 차 산,광 나 루,중 곡,어 린 이 대 공 원,뚝 섬 유 원 지,신 도 림,구 로,구 일,개 봉,오 류 동,온 수,구 로 디 지 털 단 지,대 림,도 림 천,남 구 로,천 왕,가 산 디 지 털 단 지,금 천 구 청,독 산,월 계,광 운 대,석 계,당 고 개,상 계,노 원,태 릉 입 구,화 랑 대,수 락 산,마 들,중 계,하 계,공 릉,도 봉 산,도 봉,방 학,창 동,녹 천,쌍 문,신 이 문,외 대 앞,회 기,청 량 리,제 기 동,신 설 동,용 두,장 한 평,노 량 진,사 당,신 대 방,동 작,이 수,남 성,숭 실 대 입 구,상 도,장 승 배 기,신 대 방 삼 거 리,보 라 매,노 들,흑 석,합 정,홍 대 입 구,신 촌 ( 2 ),이 대,아 현,마 포,공 덕,애 오 개,월 드 컵 경 기 장,마 포 구 청,망 원,상 수,광 흥 창,대 흥,디 지 털 미 디 어 시 티,서 강,충 정 로,홍 제,무 악 재,독 립 문,신 촌",
+      "activated": true
+    },
+    {
+      "name": "근처",
+      "mode": true,
+      "words": "근 처,근 방,옆",
+      "activated": true
+    },
+    {
+      "name": "리뷰",
+      "mode": true,
+      "words": "리 뷰,평 가,평 판,평 점",
+      "activated": true
+    }
+  ],
+  "regex_features": [
+    {
+      "name": "City",
+      "pattern": ".{1,4}시",
+      "activated": true
+    }
+  ],
+  "utterances": [
+    {
+      "text": "도움말",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "도와줘",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "헬프",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "사용방법",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "넌 뭘 할 수 있니",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "사용법 안내",
+      "intent": "Help",
+      "entities": []
+    },
+    {
+      "text": "호텔 추천",
+      "intent": "SearchHotels",
+      "entities": []
+    },
+    {
+      "text": "호텔 찾아줘",
+      "intent": "SearchHotels",
+      "entities": []
+    },
+    {
+      "text": "호텔 검색",
+      "intent": "SearchHotels",
+      "entities": []
+    },
+    {
+      "text": "5성급 호텔 검색",
+      "intent": "SearchHotels",
+      "entities": [
+        {
+          "entity": "Star",
+          "startPos": 0,
+          "endPos": 2
+        }
+      ]
+    },
+    {
+      "text": "3성급 호텔 찾아줘",
+      "intent": "SearchHotels",
+      "entities": [
+        {
+          "entity": "Star",
+          "startPos": 0,
+          "endPos": 2
+        }
+      ]
+    },
+    {
+      "text": "서울역 근처 3성급 호텔 검색",
+      "intent": "SearchHotels",
+      "entities": [
+        {
+          "entity": "Star",
+          "startPos": 7,
+          "endPos": 9
+        },
+        {
+          "entity": "Location::Area",
+          "startPos": 0,
+          "endPos": 2
+        }
+      ]
+    },
+    {
+      "text": "부산역 호텔 검색",
+      "intent": "SearchHotels",
+      "entities": [
+        {
+          "entity": "Location::Area",
+          "startPos": 0,
+          "endPos": 2
+        }
+      ]
+    },
+    {
+      "text": "대전역 근처 호텔 찾아줘",
+      "intent": "SearchHotels",
+      "entities": [
+        {
+          "entity": "Location::Area",
+          "startPos": 0,
+          "endPos": 2
+        }
+      ]
+    },
+    {
+      "text": "수원역 호텔 검색",
+      "intent": "SearchHotels",
+      "entities": [
+        {
+          "entity": "Location::Area",
+          "startPos": 0,
+          "endPos": 2
+        }
+      ]
+    },
+    {
+      "text": "전주시 호텔",
+      "intent": "SearchHotels",
+      "entities": [
+        {
+          "entity": "Location::City",
+          "startPos": 0,
+          "endPos": 2
+        }
+      ]
+    },
+    {
+      "text": "경주시 호텔 찾아줘",
+      "intent": "SearchHotels",
+      "entities": [
+        {
+          "entity": "Location::City",
+          "startPos": 0,
+          "endPos": 2
+        }
+      ]
+    },
+    {
+      "text": "서울시 호텔 검색",
+      "intent": "SearchHotels",
+      "entities": [
+        {
+          "entity": "Location::City",
+          "startPos": 0,
+          "endPos": 2
+        }
+      ]
+    },
+    {
+      "text": "icn 공항 근처 호텔",
+      "intent": "SearchHotels",
+      "entities": [
+        {
+          "entity": "Location::Area",
+          "startPos": 4,
+          "endPos": 5
+        },
+        {
+          "entity": "AirportCode",
+          "startPos": 0,
+          "endPos": 2
+        }
+      ]
+    },
+    {
+      "text": "aat 공항 근처 호텔",
+      "intent": "SearchHotels",
+      "entities": [
+        {
+          "entity": "Location::Area",
+          "startPos": 4,
+          "endPos": 5
+        },
+        {
+          "entity": "AirportCode",
+          "startPos": 0,
+          "endPos": 2
+        }
+      ]
+    },
+    {
+      "text": "gsa 공항 근처 호텔",
+      "intent": "SearchHotels",
+      "entities": [
+        {
+          "entity": "Location::Area",
+          "startPos": 4,
+          "endPos": 5
+        },
+        {
+          "entity": "AirportCode",
+          "startPos": 0,
+          "endPos": 2
+        }
+      ]
+    },
+    {
+      "text": "수원시 호텔 목록",
+      "intent": "SearchHotels",
+      "entities": [
+        {
+          "entity": "Location::City",
+          "startPos": 0,
+          "endPos": 2
+        }
+      ]
+    },
+    {
+      "text": "강릉시 제일 좋은 호텔",
+      "intent": "SearchHotels",
+      "entities": [
+        {
+          "entity": "Location::City",
+          "startPos": 0,
+          "endPos": 2
+        }
+      ]
+    },
+    {
+      "text": "usn 공항 근처 숙박",
+      "intent": "SearchHotels",
+      "entities": [
+        {
+          "entity": "Location::Area",
+          "startPos": 4,
+          "endPos": 5
+        },
+        {
+          "entity": "AirportCode",
+          "startPos": 0,
+          "endPos": 2
+        }
+      ]
+    },
+    {
+      "text": "서울역 근처 잘 곳 추천",
+      "intent": "SearchHotels",
+      "entities": [
+        {
+          "entity": "Location::Area",
+          "startPos": 0,
+          "endPos": 2
+        }
+      ]
+    },
+    {
+      "text": "경주 호텔 추천",
+      "intent": "SearchHotels",
+      "entities": [
+        {
+          "entity": "Location::City",
+          "startPos": 0,
+          "endPos": 1
+        }
+      ]
+    },
+    {
+      "text": "부산에서 좋은 호텔 찾아줘",
+      "intent": "SearchHotels",
+      "entities": [
+        {
+          "entity": "Location::City",
+          "startPos": 0,
+          "endPos": 1
+        }
+      ]
+    },
+    {
+      "text": "서울 근처 호텔 추천해줘",
+      "intent": "SearchHotels",
+      "entities": [
+        {
+          "entity": "Location::Area",
+          "startPos": 0,
+          "endPos": 1
+        }
+      ]
+    },
+    {
+      "text": "용산역 3성급 호텔",
+      "intent": "SearchHotels",
+      "entities": [
+        {
+          "entity": "Star",
+          "startPos": 4,
+          "endPos": 6
+        },
+        {
+          "entity": "Location::Area",
+          "startPos": 0,
+          "endPos": 2
+        }
+      ]
+    },
+    {
+      "text": "신촌역 근처 호텔",
+      "intent": "SearchHotels",
+      "entities": [
+        {
+          "entity": "Location::Area",
+          "startPos": 0,
+          "endPos": 2
+        }
+      ]
+    },
+    {
+      "text": "대흥역 호텔 추천",
+      "intent": "SearchHotels",
+      "entities": [
+        {
+          "entity": "Location::Area",
+          "startPos": 0,
+          "endPos": 2
+        }
+      ]
+    },
+    {
+      "text": "대전에 있는 3성급 호텔 찾아줘",
+      "intent": "SearchHotels",
+      "entities": [
+        {
+          "entity": "Star",
+          "startPos": 7,
+          "endPos": 9
+        },
+        {
+          "entity": "Location::City",
+          "startPos": 0,
+          "endPos": 1
+        }
+      ]
+    },
+    {
+      "text": "신촌에 좋은 호텔 검색",
+      "intent": "SearchHotels",
+      "entities": [
+        {
+          "entity": "Location::Area",
+          "startPos": 0,
+          "endPos": 1
+        }
+      ]
+    },
+    {
+      "text": "충정로에 괜찮은 호텔 있을까?",
+      "intent": "SearchHotels",
+      "entities": [
+        {
+          "entity": "Location::Area",
+          "startPos": 0,
+          "endPos": 2
+        }
+      ]
+    },
+    {
+      "text": "웨스틴 조선 평가가 어때?",
+      "intent": "ShowHotelsReviews",
+      "entities": [
+        {
+          "entity": "Hotel",
+          "startPos": 0,
+          "endPos": 5
+        }
+      ]
+    },
+    {
+      "text": "그랜드 하얏트 서울 평가 보여줘",
+      "intent": "ShowHotelsReviews",
+      "entities": [
+        {
+          "entity": "Hotel",
+          "startPos": 0,
+          "endPos": 9
+        }
+      ]
+    },
+    {
+      "text": "콘래드 서울 리뷰",
+      "intent": "ShowHotelsReviews",
+      "entities": [
+        {
+          "entity": "Hotel",
+          "startPos": 0,
+          "endPos": 5
+        }
+      ]
+    },
+    {
+      "text": "서울 신라 호텔 리뷰 확인",
+      "intent": "ShowHotelsReviews",
+      "entities": [
+        {
+          "entity": "Hotel",
+          "startPos": 0,
+          "endPos": 7
+        }
+      ]
+    },
+    {
+      "text": "더케이호텔서울 평가 조회",
+      "intent": "ShowHotelsReviews",
+      "entities": [
+        {
+          "entity": "Hotel",
+          "startPos": 0,
+          "endPos": 6
+        }
+      ]
+    },
+    {
+      "text": "쉐라톤 서울 팰리스 강남 호텔 평판이 어때",
+      "intent": "ShowHotelsReviews",
+      "entities": [
+        {
+          "entity": "Hotel",
+          "startPos": 0,
+          "endPos": 15
+        }
+      ]
+    }
+  ]
+}
