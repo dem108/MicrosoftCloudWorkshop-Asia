@@ -138,6 +138,7 @@ guide and add the link you want to contribute in a structured way.
 ### Special Recommendations
 
 - [Microsoft AI Platform](https://www.microsoft.com/en-us/AI/ai-platform)
+- [AI School](https://aischool.microsoft.com/learning-paths)
 - [Awesome-Azure-Advanced-Analytics](https://github.com/bensadeghi/Awesome-Azure-Advanced-Analytics)
 
 ### Azure General Quickstart
