@@ -10,9 +10,9 @@ Your contributions are welcomed! Please send a pull request to contribute. Make 
 
 - Programs
 
-  1. [Deep Learning with DSVM and Containers](#deep-learning-with-dsvm-and-containers)
-  2. [Machine Learning Studio and Power BI (new)](#machine-learning-studio-and-power-bi-new)
-  3. [Bot Framework and Cognitive Services](#bot-framework-and-cognitive-services)
+  - [1. Deep Learning with DSVM and Containers](#1-deep-learning-with-dsvm-and-containers)
+  - [2. Machine Learning Studio and Power BI (new)](#2-machine-learning-studio-and-power-bi-new)
+  - [3. Bot Framework and Cognitive Services](#3-bot-framework-and-cognitive-services)
   - [*(Deprecated)* Scalable Bot and Cognitive Services](#deprecated-scalable-bot-and-cognitive-services)
   - [*(Deprecated)* Machine Learning and BI](#deprecated-machine-learning-studio-and-bi)
   
