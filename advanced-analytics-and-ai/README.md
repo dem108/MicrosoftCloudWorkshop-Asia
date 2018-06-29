@@ -187,13 +187,9 @@ Your contributions are welcomed! Please send a pull request to contribute. Make 
 
 - All lab guides and related documents are downloadable from [here (OneDrive)](https://1drv.ms/f/s!AqxpfqzT7_QjpdF61ds9PWCf20g-wA)
 
----
-
 **Note**
 
 > The rest of the Resources section is excerpts with some modification from this great repo: [Awesome-Azure-Advanced-Analytics](https://github.com/bensadeghi/Awesome-Azure-Advanced-Analytics). Make sure you take a look if you are interested to know more.
-
----
 
 ### Special Recommendations
 
