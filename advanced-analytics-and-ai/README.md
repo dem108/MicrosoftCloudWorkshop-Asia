@@ -7,11 +7,15 @@ Your contributions are welcomed! Please send a pull request to contribute. Make 
 ## Table of Contents
 
 - [Common Requirements](#common-requirements)
-- [Machine Learning and BI](#machine-learning-studio-and-bi)
-- [Bot Framework and Cognitive Services](#bot-framework-and-cognitive-services)
-- [Deep Learning with DSVM and Containers](#deep-learning-with-dsvm-and-containers)
-- [Machine Learning Studio and Power BI (new)](#machine-learning-studio-and-power-bi-new)
-- [*(Deprecated)* Scalable Bot and Cognitive Services](#deprecated-scalable-bot-and-cognitive-services)
+
+- Programs
+
+  1. [Deep Learning with DSVM and Containers](#deep-learning-with-dsvm-and-containers)
+  2. [Machine Learning Studio and Power BI (new)](#machine-learning-studio-and-power-bi-new)
+  3. [Bot Framework and Cognitive Services](#bot-framework-and-cognitive-services)
+  - [*(Deprecated)* Scalable Bot and Cognitive Services](#deprecated-scalable-bot-and-cognitive-services)
+  - [*(Deprecated)* Machine Learning and BI](#deprecated-machine-learning-studio-and-bi)
+  
 - [Resources](#resources)
 
 - - -
@@ -24,7 +28,100 @@ Your contributions are welcomed! Please send a pull request to contribute. Make 
 - Local machine or VM (specific requirements differ per agenda)
 - Other pre-workshop activities are provided per agenda
 
-## Machine Learning Studio and BI
+
+## Programs
+
+## 1. Deep Learning with DSVM and Containers
+
+  > *Data pipelining, wrangling, ML/DL model training on Docker with GPU VM/cluster or Spark cluster, deploying with Container services (Kubernetes)*
+
+### Block Schedule
+
+- 09:00-09:30 Registration
+- 09:30-10:00 Workshop Introduction (Purpose/Value/Structure) + Level Setting (self Introduction in regard to role and expectation)
+- 10:00-10:30 Lab Environment Setup
+- 10:40-11:50 Microsoft AI Platform Overview and Demos + Scenario/Architecture briefing
+- Lunch
+- 13:00-13:30 Hackathon – Ex1: Quick Start, Ex2: Classifying Iris – Prepare Data
+- 13:40-15:50 Hackathon – Ex3: Create ML Model
+    (scikit-learn, python/pyspark, local/remote docker and cloud Hadoop cluster)
+- 16:20-16:50 Hackathon – Ex4: Deploy ML Model
+- 17:00-17:50 Hackathon – Ex5: Advanced Data Preparation
+- 17:50-18:00 Wrap Up
+ 
+### Included Product/Services
+
+- Data Science VM, Deep Learning VM
+- Azure Machine Learning *Workbench*
+- HDInsight (Spark)
+- Azure Container Service, Azure Container Registry
+
+### Lab Guide
+
+- Azure ML Workbench 2017 version guide is downloadable from [here (OneDrive)](https://1drv.ms/f/s!AqxpfqzT7_Qjpdlkna9ArD_H28XFQg)
+
+
+## 2. Machine Learning Studio and Power BI (new)
+
+  >*Use Power BI to explore data and set up hypothesis, then use Azure Machine Learning Studio to develop and deploy ML models. Consume ML models in different ways*
+
+### Block Schedule
+
+- 09:00-09:30 Registration
+- 09:30-10:00 Workshop Introduction (Purpose/Value/Structure) + Level Setting (self Introduction in regard to role and expectation)
+- 10:00-10:30 Lab Environment Setup
+- 10:40-11:50 Microsoft AI Platform Overview and Demos + Scenario/Architecture briefing
+- Lunch
+- 13:00-13:50 Hackathon – Ex1: Exploring Data with Power BI
+- 14:00-15:50 Hackathon – Ex2: Getting Started with Azure ML Studio
+- 16:00-16:50 Hackathon – Ex3: Training Predictive Models
+- 17:00-17:50 Hackathon – Ex4: Publishing and Consuming Predictive Web Services
+- 17:50-18:00 Wrap Up
+
+### Included Product/Services
+
+- Power BI
+- Storage Account
+- Azure Machine Learning *Studio*
+
+### Lab Guide
+
+- AALAB 2016 version is downloadable from [here (OneDrive)](https://1drv.ms/f/s!AqxpfqzT7_QjqZJqRvj3Qc1sGql0uA)
+- A new 2018 version will be uploaded soon.
+
+
+## 3. Bot Framework and Cognitive Services
+
+  > *Use Bot Framework to build, test, deploy, connect to channels. Start with FormFlow bot, continue with Language Understanding and Q&A Maker. Explore different aspects from Official Sample libraries.*
+
+### Block Schedule
+
+- 09:00-09:30 Registration
+- 09:30-10:00 Workshop Introduction (Purpose/Value/Structure) + Level Setting (self Introduction in regard to role and expectation)
+- 10:00-10:30 Lab Environment Setup
+- 10:40-11:50 Microsoft AI Platform Overview and Demos + Scenario/Architecture briefing
+- Lunch
+- 13:00-13:50 Hackathon – Ex1: Prep Environment, Bot Demo - Litware Insurance
+- 14:00-14:50 Hackathon – Ex2: Build and Deploy a Bot
+- 15:00-15:50 Hackathon – Ex3: Add Intelligence (LUIS)
+- 16:00-16:50 Hackathon – Ex4: Develop LUIS for Korean
+- 17:00-17:50 Hackathon – Ex5: Explore other SDKs
+- 17:50-18:00 Wrap Up
+
+### Included Product/Services
+
+- Azure Bot Service
+- Azure App Service
+- Cognitive Services
+- Visual Studio
+
+### Lab Guide
+
+- Microsoft BotBuilder Sample and edX guide (Dec 2017) is downloadable from [here (OneDrive)](https://1drv.ms/f/s!AqxpfqzT7_Qjpdk4xII40JnZWHM-1g)
+- A newer version is going to be uploaded soon
+
+
+## *(Deprecated)* Machine Learning Studio and BI
 
   >*Use Azure Machine Learning Studio to develop and deploy ML models, then analyze batch scored data with Azure SQL Datawarehouse and Power BI all integrated within Web page with Azure Active Directory*
 
@@ -50,82 +147,6 @@ Your contributions are welcomed! Please send a pull request to contribute. Make 
 - Azure Active Directory
 - Azure Machine Learning *Studio*
 - Visual Studio
-
-
-## Bot Framework and Cognitive Services
-
-  > *Use Bot Framework to build, test, deploy, connect to channels. Start with FormFlow bot, continue with Language Understanding and Q&A Maker. Explore different aspects from Official Sample libraries.*
-
-### Block Schedule
-
-- 09:00-09:30 Registration
-- 09:30-10:00 Workshop Introduction (Purpose/Value/Structure) + Level Setting (self Introduction in regard to role and expectation)
-- 10:00-10:30 Lab Environment Setup
-- 10:40-11:50 Microsoft AI Platform Overview and Demos + Scenario/Architecture briefing
-- Lunch
-- 13:00-13:50 Hackathon – Ex1: Prep Environment, Bot Demo - Litware Insurance
-- 14:00-14:50 Hackathon – Ex2: Build and Deploy a Bot
-- 15:00-15:50 Hackathon – Ex3: Add Intelligence (LUIS)
-- 16:00-16:50 Hackathon – Ex4: Develop LUIS for Korean
-- 17:00-17:50 Hackathon – Ex5: Explore other SDKs
-- 17:50-18:00 Wrap Up
-
-### Included Product/Services
-
-- Azure Bot Service
-- Azure App Service
-- Cognitive Services
-- Visual Studio
-
-
-## Deep Learning with DSVM and Containers
-
-  > *Data pipelining, wrangling, ML/DL model training on Docker with GPU VM/cluster or Spark cluster, deploying with Container services (Kubernetes)*
-
-### Block Schedule
-
-- 09:00-09:30 Registration
-- 09:30-10:00 Workshop Introduction (Purpose/Value/Structure) + Level Setting (self Introduction in regard to role and expectation)
-- 10:00-10:30 Lab Environment Setup
-- 10:40-11:50 Microsoft AI Platform Overview and Demos + Scenario/Architecture briefing
-- Lunch
-- 13:00-13:30 Hackathon – Ex1: Quick Start, Ex2: Classifying Iris – Prepare Data
-- 13:40-15:50 Hackathon – Ex3: Create ML Model
-    (scikit-learn, python/pyspark, local/remote docker and cloud Hadoop cluster)
-- 16:20-16:50 Hackathon – Ex4: Deploy ML Model
-- 17:00-17:50 Hackathon – Ex5: Advanced Data Preparation
-- 17:50-18:00 Wrap Up
- 
-### Included Product/Services
-
-- Data Science VM, Deep Learning VM
-- Azure Machine Learning *Workbench*
-- HDInsight (Spark)
-- Azure Container Service, Azure Container Registry
-
-
-## Machine Learning Studio and Power BI (new)
-
-  >*Use Power BI to explore data and set up hypothesis, then use Azure Machine Learning Studio to develop and deploy ML models. Consume ML models in different ways*
-
-### Block Schedule
-
-- 09:00-09:30 Registration
-- 09:30-10:00 Workshop Introduction (Purpose/Value/Structure) + Level Setting (self Introduction in regard to role and expectation)
-- 10:00-10:30 Lab Environment Setup
-- 10:40-11:50 Microsoft AI Platform Overview and Demos + Scenario/Architecture briefing
-- Lunch
-- 13:00-13:50 Hackathon – Ex1: Exploring Data with Power BI
-- 14:00-15:50 Hackathon – Ex2: Getting Started with Azure ML Studio
-- 16:00-16:50 Hackathon – Ex3: Training Predictive Models
-- 17:00-17:50 Hackathon – Ex4: Publishing and Consuming Predictive Web Services
-- 17:50-18:00 Wrap Up
-
-### Included Product/Services
-
-- Power BI
-- Storage Account
-- Azure Machine Learning *Studio*
 
 
 ## *(Deprecated)* Scalable Bot and Cognitive Services
@@ -164,7 +185,15 @@ Your contributions are welcomed! Please send a pull request to contribute. Make 
 
 ### Hackathon Specific Guidances
 
-- Download from [here (OneDrive)](https://1drv.ms/f/s!AqxpfqzT7_QjpdF61ds9PWCf20g-wA)
+- All lab guides and related documents are downloadable from [here (OneDrive)](https://1drv.ms/f/s!AqxpfqzT7_QjpdF61ds9PWCf20g-wA)
+
+---
+
+**Note**
+
+> The rest of the Resources section is excerpts with some modification from this great repo: [Awesome-Azure-Advanced-Analytics](https://github.com/bensadeghi/Awesome-Azure-Advanced-Analytics). Make sure you take a look if you are interested to know more.
+
+---
 
 ### Special Recommendations
 
