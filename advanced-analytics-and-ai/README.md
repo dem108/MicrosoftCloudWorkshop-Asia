@@ -29,6 +29,8 @@ Thanks for your contribution! Please review the [guideline for contribution](htt
 - Other pre-workshop activities are provided per agenda
 
 
+---
+
 ## Programs
 
 ## 1. Deep Learning with DSVM and Containers
@@ -180,6 +182,8 @@ Thanks for your contribution! Please review the [guideline for contribution](htt
 - Power BI
 - Azure Search
 
+
+---
 
 ## Resources
 
