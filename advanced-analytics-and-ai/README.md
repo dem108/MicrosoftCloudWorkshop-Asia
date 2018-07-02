@@ -50,8 +50,15 @@ Thanks for your contribution! Please review the [guideline for contribution](htt
 - 16:20-16:50 Hackathon – Ex4: Deploy ML Model
 - 17:00-17:50 Hackathon – Ex5: Advanced Data Preparation
 - 17:50-18:00 Wrap Up
- 
-### Included Product/Services
+
+### Concepts Covered
+
+- Microsoft AI Platform overview
+- Azure Machine Learning Experimentation and Model Management
+- Using different tools to train and deploy ML models
+- Know how to consume and integrate ML models
+
+### Product/Services Covered
 
 - Data Science VM, Deep Learning VM
 - Azure Machine Learning *Workbench*
@@ -80,7 +87,14 @@ Thanks for your contribution! Please review the [guideline for contribution](htt
 - 17:00-17:50 Hackathon – Ex4: Publishing and Consuming Predictive Web Services
 - 17:50-18:00 Wrap Up
 
-### Included Product/Services
+### Concepts Covered
+
+- Microsoft AI Platform overview
+- Azure Machine Learning Studio Workspace and Web Service
+- Train and deploy ML models using Azure ML Studio
+- Know how to consume and integrate ML models
+
+### Product/Services Covered
 
 - Power BI
 - Storage Account
@@ -110,7 +124,14 @@ Thanks for your contribution! Please review the [guideline for contribution](htt
 - 17:00-17:50 Hackathon – Ex5: Explore other SDKs
 - 17:50-18:00 Wrap Up
 
-### Included Product/Services
+### Concepts Covered
+
+- Microsoft AI Platform overview
+- Bot Service and Cognitive Services
+- Deploy and integrate Bots
+- Design Best Practices (optional)
+
+### Product/Services Covered
 
 - Azure Bot Service
 - Azure App Service
@@ -140,7 +161,7 @@ Thanks for your contribution! Please review the [guideline for contribution](htt
 - 17:00-17:50 Hackathon – Ex5: Power BI
 - 17:50-18:00 Wrap Up
 
-### Included Product/Services
+### Product/Services Covered
 
 - Power BI
 - SQL Data Warehouse
@@ -169,7 +190,7 @@ Thanks for your contribution! Please review the [guideline for contribution](htt
 - 17:00-17:50 Hackathon – Ex6: Power BI,  Ex7: Enable Search Indexing
 - 17:50-18:00 Wrap Up
 
-### Included Product/Services
+### Product/Services Covered
 
 - Service Bus (Topic)
 - Event Hub
