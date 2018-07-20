@@ -1,5 +1,5 @@
 # Microsoft Cloud Workshop Asia
-[![Readme-CN](https://img.shields.io/badge/README-english-green.svg)](README.md)
+[![Readme](https://img.shields.io/badge/README-english-green.svg)](README.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Contributing
