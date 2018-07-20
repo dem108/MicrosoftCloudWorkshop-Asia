@@ -1,12 +1,12 @@
 # Microsoft Cloud Workshop Asia
-[![Readme-CN](https://img.shields.io/badge/README-한국어-green.svg)](README.ko-kr.md)
+[![Readme-CN](https://img.shields.io/badge/README-english-green.svg)](README.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Contributing
 
-Thanks for your contribution! Please review the [guideline for contribution](https://github.com/dem108/MicrosoftCloudWorkshop-Asia/blob/master/CONTRIBUTING.md) to this repository.
+기여해주셔서 감사합니다! 다음의 [guideline for contribution](https://github.com/dem108/MicrosoftCloudWorkshop-Asia/blob/master/CONTRIBUTING.md)를 참고해주세요.
 
-## Table of Contents
+## 목차
 
 - [Common Requirements](#common-requirements)
 - [Data and AI](#data-and-ai)
@@ -21,16 +21,16 @@ Thanks for your contribution! Please review the [guideline for contribution](htt
 
 ## Common Requirements
 
-- Corporate email address
-- Azure Subscription which is PAYG or MSDN. (Trial subscriptions may not work for some part, or will require additional set up beforehand.)
-- Must be an owner of the Azure subscription in some agenda
-- Local machine or VM (specific requirements differ per agenda)
-- Other pre-workshop activities are provided per agenda
+- 기업용 이메일 주소
+- Azure 구독 (PAYG 또는 MSDN). (Trial subscriptions으로는 일부 과정이 진행이 안되거나, 진행 전에 미리 부가작업이 필요할 수 있습니다.)
+- 일부 과정에는 구독의 owner 권한이 필요할 수 있습니다
+- 로컬 PC나 VM (아젠다에 따라 요건이 다를 수 있습니다)
+- 아젠다별로 사전 활용이 주어질 수 있습니다
 
 ## Data and AI
 
 ### Advanced Analytics and AI
-(Click [here](https://github.com/dem108/MicrosoftCloudWorkshop-Asia/tree/master/advanced-analytics-and-ai) for details)
+(더 자세한 사항은 [여기](https://github.com/dem108/MicrosoftCloudWorkshop-Asia/tree/master/advanced-analytics-and-ai)를 참고해주세요)
 
 - Machine Learning Studio and BI
   > *Use Azure Machine Learning Studio to develop and deploy ML models, then analyze batch scored data with Azure SQL Datawarehouse and Power BI all integrated within Web page with Azure Active Directory*
@@ -77,4 +77,4 @@ Thanks for your contribution! Please review the [guideline for contribution](htt
 
 ## Notes
 
-Check out the Block Schedules and Resources in each section!
+각 섹션의 시간표와 관련자료를 참고해주세요!
