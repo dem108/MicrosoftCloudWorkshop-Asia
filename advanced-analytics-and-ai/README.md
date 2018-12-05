@@ -13,6 +13,7 @@ Thanks for your contribution! Please review the [guideline for contribution](htt
   - [1. Deep Learning with DSVM and Containers](#1-deep-learning-with-dsvm-and-containers)
   - [2. Machine Learning Studio and Power BI (new)](#2-machine-learning-studio-and-power-bi-new)
   - [3. Bot Framework and Cognitive Services](#3-bot-framework-and-cognitive-services)
+  - [4. Azure Bot Service (direct link to OneDrive folder)](https://1drv.ms/f/s!AqxpfqzT7_QjrLl98eBCeXVG4I8mLg)
   - [*(Deprecated)* Scalable Bot and Cognitive Services](#deprecated-scalable-bot-and-cognitive-services)
   - [*(Deprecated)* Machine Learning and BI](#deprecated-machine-learning-studio-and-bi)
   
