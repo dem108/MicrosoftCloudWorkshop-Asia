@@ -14,6 +14,7 @@ Thanks for your contribution! Please review the [guideline for contribution](htt
   - [2. Machine Learning Studio and Power BI (new)](#2-machine-learning-studio-and-power-bi-new)
   - [3. Bot Framework and Cognitive Services](#3-bot-framework-and-cognitive-services)
   - [4. Azure Bot Service (direct link to OneDrive folder)](https://1drv.ms/f/s!AqxpfqzT7_QjrLl98eBCeXVG4I8mLg)
+  - [5. Azure Machine Learning service (direct link to OneDrive folder (30 days)](https://1drv.ms/f/s!AqxpfqzT7_QjrLkBCYZmj2ZUKYYX2Q)
   - [*(Deprecated)* Scalable Bot and Cognitive Services](#deprecated-scalable-bot-and-cognitive-services)
   - [*(Deprecated)* Machine Learning and BI](#deprecated-machine-learning-studio-and-bi)
   
